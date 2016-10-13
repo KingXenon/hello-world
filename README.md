@@ -1,6 +1,4 @@
-# hello-world
-The story of a peasant...
-
+# WOOP WOOP WOOP!
 You all may refer to me as E.A.M.
 I enjoy Video Games, reading, and hope to learn all that I can about programming and design to hopefully develop games one day.
 My Birthday is -/-/-
